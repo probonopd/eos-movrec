@@ -17,6 +17,8 @@ https://sourceforge.net/p/eos-movrec/discussion/
 
 ## Alternative
 
+This seems to record video (with audio), then download a MOV from the camera (at least on a EOS 700D). This is not suitable for e.g., using the camera in a video chat application in place of a webcam. (Is there a way to achieve that)?
+
 ```
 gphoto2 \
     --set-config viewfinder=1 \
