@@ -4,4 +4,5 @@ Name=EOS Movie Record
 Comment=LiveView for Canon DSLR cameras
 Exec=eos_movrec
 Icon=eos-movrec
+Categories=AudioVideo;
 StartupNotify=true
