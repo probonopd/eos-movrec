@@ -9,7 +9,7 @@ https://sourceforge.net/projects/eos-movrec/
 
 Mac and Windows: https://sourceforge.net/projects/eos-movrec/files/eos-movrec/
 
-Linux AppImage: []()
+Linux AppImage: [releases/tag/continuous](../../releases/tag/continuous)
 
 ## Discussion
 
