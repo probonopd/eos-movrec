@@ -1,10 +1,19 @@
 # EOS Camera Movie Record [![Build Status](https://travis-ci.com/probonopd/eos-movrec.svg?branch=master)](https://travis-ci.com/probonopd/eos-movrec)
 
-This software writes short movies with your digital DSLR camera Canon (R) directly to computer. The camera must have LiveView feature to work, like in Canon EOS 450D for example. The Program has preview, Av, Tv and WB control.
+> This software writes short movies with your digital DSLR camera Canon (R) directly to computer. The camera must have LiveView feature to work, like in Canon EOS 450D for example. The Program has preview, Av, Tv and WB control.
 
 Source code:
 https://sourceforge.net/projects/eos-movrec/
 
+## Download
+
+Mac and Windows: https://sourceforge.net/projects/eos-movrec/files/eos-movrec/
+
+Linux AppImage: []()
+
+## Discussion
+
+https://sourceforge.net/p/eos-movrec/discussion/
 
 ## Alternative
 
