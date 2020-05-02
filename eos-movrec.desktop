@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=EOS Movie Record
+Comment=LiveView for Canon DSLR cameras
+Exec=eos_movrec
+Icon=eos-movrec
+StartupNotify=true
